@@ -3,10 +3,10 @@
 
 🇬🇧 PLEASE USE IT IF YOU WANT TO ADD A PULL REQUEST JUST I WILL ACC 🐧
 
-# Thanks To
+### Thanks To
 * [`Fandyyy`](https://github.com/NzrlAfndi)
 * [`Erlan`](https://github.com/ERLANRAHMAT)
 * [`AngelDark`](https://github.com/eabdalmufid)
 
-# Connect With Me
+### Connect With Me
 * [`Whatsapp Group`](https://chat.whatsapp.com/I2OK9w2mkIpKngLpFs0i93)
